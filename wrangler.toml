@@ -1,6 +1,6 @@
 name = "ddeg"
 main = "_worker.js"
-compatibility_date = "2026-08-02"
+compatibility_date = "2025-11-04"
 keep_vars = true
 workers_dev = true
 preview_urls = false
