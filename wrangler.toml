@@ -1,8 +1,10 @@
-name = "v20251104"
+name = "ddeg"
 main = "_worker.js"
-compatibility_date = "2025-11-04"
+compatibility_date = "2026-08-02"
 keep_vars = true
+workers_dev = true
+preview_urls = false
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+[[kv_namespaces]]
+binding = "KV"
+id = "ddegkv1"
