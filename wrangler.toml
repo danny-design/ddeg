@@ -5,6 +5,6 @@ keep_vars = true
 workers_dev = true
 preview_urls = false
 
-[[kv_namespaces]]
-binding = "KV"
-id = "ddegkv1_binding"
+#[[kv_namespaces]]
+#binding = "KV"
+#id = "ddegkv1_binding"
